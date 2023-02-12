@@ -7,6 +7,6 @@ A simple garbage collector that uses the [Mark-and-Sweep algorithm](https://www.
 To run the unit tests against the garbage collector.
 
 ```bash
-make test
-./test
+make
+./tests
 ```
